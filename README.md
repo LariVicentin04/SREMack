@@ -20,7 +20,8 @@ Cada componente da solução tem uma função específica de entrega na arquitet
 ### Clonar o Repositório
 
 \```git clone https://github.com/LariVicentin04/SREMack.git
-cd SREMack```\
+
+`cd SREMack`
 
 ### Configurar o Ambiente AWS
 
