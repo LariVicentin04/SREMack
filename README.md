@@ -27,7 +27,7 @@ cd SREMack\\\
 ### Configurar o Ambiente AWS
 
 \```bash
-aws configure
+```aws configure```
 \```
 
 ### Inicializar o Terraform
