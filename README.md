@@ -4,6 +4,8 @@ Este repositório tem como objetivo mostrar como foi feito o trabalho individual
 
 Visão Geral da Arquitetura
 
+![arquitetura da solução](https://github.com/LariVicentin04/SREMack/blob/main/evolve.png)
+
 ## Descrição da Solução
 
 Cada componente da solução tem uma função específica de entrega na arquitetura do projeto:
