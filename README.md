@@ -19,32 +19,23 @@ Cada componente da solução tem uma função específica de entrega na arquitet
 
 ### Clonar o Repositório
 
-\```bash
-\\\git clone https://github.com/LariVicentin04/SREMack.git
-cd SREMack\\\
-\```
+```git clone https://github.com/LariVicentin04/SREMack.git
+cd SREMack```
 
 ### Configurar o Ambiente AWS
 
-\```bash
 ```aws configure```
-\```
+
 
 ### Inicializar o Terraform
 
-\```bash
-terraform init
-\```
+```terraform init```
 
 ### Planejar a Infraestrutura
 
-\```bash
-terraform plan
-\```
+```terraform plan```
 
 ### Aplicar a Infraestrutura
 
-\```bash
-terraform apply
-\```
+```terraform apply```
 
